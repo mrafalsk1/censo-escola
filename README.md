@@ -1,18 +1,14 @@
 
  
-## Censo Escola
+## School Census
  
-O projeto Censo escola tem como objetivo t
+The School Census project was made in a university subject, the proposal was make a project with real problems about the educatios using the IBGE's Census School.
 
 ## Proposta
 
-* Necessária a criação de um arquivo readme para adicionar toda documentação sobre o desenvolvimento;
-* No mínimo 3 rotas diferentes (home (main, header, footer), formulário e página extra);
-* No mínimo 3 páginas HTML;
-* Utilizar Bootstrap (opcional);
-* PadrãoBEM de CSS;
-* Ao menos uma validação utilizando Regex;
-* Utilizar DOM; 
+Therefore, the first thing to do is make a scope and see which chacarcteristics of the schools we are gonna analyze, be the strucuture, the students enrollment or whatever.
+
+Our idea was to use every field that have relation with the structure of the schools to make some kind of score of the school's structure to from this make category five categories 
  
  
 ## Tecnnologia 
