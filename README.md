@@ -4,23 +4,19 @@
  
 The School Census project was made in a university subject, the proposal was make a project with real problems about the educatios using the IBGE's Census School.
 
-## Proposta
+## Proposal
 
 Therefore, the first thing to do is make a scope and see which chacarcteristics of the schools we are gonna analyze, be the strucuture, the students enrollment or whatever.
 
-Our idea was to use every field that have relation with the structure of the schools to make some kind of score of the school's structure to from this make category five categories 
+Our idea was to use every field that have relation with the structure of the schools to make some kind of score of the school's structure to from this make five categories which are from the best to the worst: Great, Good, average, Bad, Precarious.
  
  
-## Tecnnologia 
+## Technology 
  
-Tecnologias Usadas
+Technologies Used
  
-* Express 4.17.2
-* multer 1.4.4
-* mongoose 6.1.7
-* Bootstrap 5.0.2
-* FontAwesome 4.7.0
-* Javascript
+* Pandas
+* Numpy
 
 ## Services Used
  
