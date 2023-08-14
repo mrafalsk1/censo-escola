@@ -21,42 +21,20 @@ Technologies Used
 ## Services Used
  
 * Github
+* Power BI
  
-## Para rodar o projeto
- 
-* Instalar as dependências do back:
->    npm install
-* Ajustar o .env
->    criar o .env de acordo com .env.example
-* Para rodar o projeto:
->    npm run dev
+## Dashboard
 
-* No front só necessário instalar a extensão live server e rodar no ícone que aparace na borda inferior no vs code
- 
- ## WireFrame
- https://www.figma.com/file/qfccfeKaR3U5X8D2pIczAN/Wireframe
- 
-## Features
+The dashboard file can be downloaded from the repository, here I will just put some screenshots from what has in the dashboard field
+### Region Resume
+In this page have general indicators and visualizations grouped by region
+![image](https://github.com/mrafalsk1/censo-escola/assets/55326761/fe9b85fa-7d06-4ca6-800c-d6dbf876d993)
 
-### Home( listagem de receitas fica ordenanda pela mais clicadas)
+### State an city Resume
+In this page have both visualizaions grouped by city and states which bring more detailed informations of the situation of the school's in each city
+![image](https://github.com/mrafalsk1/censo-escola/assets/55326761/7c5cdef6-f00a-4def-bdb8-34cff232c436)
 
-![image](https://user-images.githubusercontent.com/55326761/152721049-a22dc98e-610c-46b4-849f-fe5676788d2f.png)
-
-### Cadastro de receitas
-
-![image](https://user-images.githubusercontent.com/55326761/152720822-c8ac43fc-436c-4c06-b4bb-a409a3a8d067.png)
-
-### Listagem de receitas
-
-![image](https://user-images.githubusercontent.com/55326761/152720953-2054983b-1de9-4677-b009-b02d22e52f85.png)
-
-### Modal Receita
-
-![image](https://user-images.githubusercontent.com/55326761/152720984-7c6879e9-a437-4e7b-9016-f8d7d104a00b.png)
-
-### A cada clique em uma modal de receia, é contabalizado na ordenação da home
-
-## Autor
+## Author
  
 * **Matheus Rafalski**: @mrafalsk1 (https://github.com/mrafalsk1)
  
