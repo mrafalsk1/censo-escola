@@ -1,3 +1,4 @@
 microdados*
 *.csv
 .ipynb_checkpoints
+*.xlsx
